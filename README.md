@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ben vL
 
-<!--
-**the-penwing/the-penwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm a Highschool Student from Sydney, Australia.
 
-Here are some ideas to get you started:
+Currently: Just tinkering around
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent: The Labyrinth (Terminal Guess the word game w. Textual)
+
+These are the languages and tools I use;
+- Python
+- Lua
+- NeoVim
+- NixOS on My Laptop
+- Raspberry Pi OS on my home server (RPi 4B)
+- Alpine on a RPi 3B
