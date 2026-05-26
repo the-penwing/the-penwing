@@ -1,4 +1,4 @@
-**the-penwing@github $** whoami
+# the-penwing@github $ whoami
 
 Hey, I'm a Highschool Student from Sydney, Australia.
 
