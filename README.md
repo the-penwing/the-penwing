@@ -1,12 +1,14 @@
-# Ben vL
+**the-penwing@github $** whoami
 
 Hey, I'm a Highschool Student from Sydney, Australia.
 
 Currently: Just tinkering around
 
 Recent: 
-- [The Labyrinth](https://github.com/the-penwing/the-labyrinth) (Terminal Guess the word game w. Textual) 
-- [Lua Blackjack](https://github.com/the-penwing/lua-blackjack) (Made Blackjack in Lua as a fun weekend project)
+- [The Labyrinth](https://github.com/the-penwing/the-labyrinth) (Terminal Guess
+ the word game w. Textual) 
+- [Lua Blackjack](https://github.com/the-penwing/lua-blackjack) (Made Blackjack
+in Lua as a fun weekend project)
 
 These are the languages and tools I use;
 - Python
