@@ -1,4 +1,4 @@
-# the-penwing@github $ whoami
+# Ben van Leeuwen
 
 Hey, I'm a Highschool Student from Sydney, Australia.
 
