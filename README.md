@@ -17,3 +17,11 @@ These are the languages and tools I use;
 - NixOS on My Laptop
 - Raspberry Pi OS on my home server (RPi 4B)
 - Alpine on a RPi 3B
+
+---
+
+Here's how to import my GPG public key
+
+```shell
+curl https://github.com/the-penwing.gpg | gpg --import
+```
