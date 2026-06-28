@@ -2,7 +2,7 @@
 
 Hey, I'm a Highschool Student from Sydney, Australia.
 
-Currently: Just tinkering around
+Currently: Working on a new Lua Game
 
 Recent: 
 - [The Labyrinth](https://github.com/the-penwing/the-labyrinth) (Terminal Guess
