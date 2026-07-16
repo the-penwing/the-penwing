@@ -13,7 +13,7 @@ in Lua as a fun weekend project)
 These are the languages and tools I use;
 - Python
 - Lua
-- NeoVim
+- NeoVim & Helix
 - NixOS on My Laptop
 - Raspberry Pi OS on my home server (RPi 4B)
 - Alpine on a RPi 3B
