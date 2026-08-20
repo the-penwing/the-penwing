@@ -17,7 +17,7 @@ These are the languages and tools I use;
 - Lua
 - Rust (Still VERY New)
 - NeoVim & Helix
-- NixOS on My Laptop
+- [NixOS](https://github.com/the-penwing/nixos-config) on my Thinkpad
 - Raspberry Pi OS on my home server (RPi 4B)
 - Alpine on a RPi 3B
 
