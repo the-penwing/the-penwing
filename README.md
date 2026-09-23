@@ -3,13 +3,14 @@
 Hey, I'm a Highschool Student from Sydney, Australia.
 
 I'm Currently Working on: A dungeon crawler written in rust with bevy
+
 My Recent projects:
 
 - [blackjack-slint](https://github.com/the-penwing/blackjack-slint), learning more about UI and UX
 - [blackjack-rs](https://github.com/the-penwing/blackjack-rs) (Ported Lua Blackjack to rust with some slight improvements)
 - [lua-dungeon-crawler](https://github.com/the-penwing/lua-dungeon-crawler) (Lua Dungeon crawler)
 
-The languages and tools I use:
+These are the languages and tools I use:
 
 - Python 3.14
 - Lua 5.5
