@@ -15,11 +15,11 @@ These are the languages and tools I use:
 - Python 3.14
 - Lua 5.5
 - Rust 2024
-- Golang
+- Golang (learning)
 - Neovim (and sometimes Helix)
 - [NixOS](https://github.com/the-penwing/nixos-config) on my Thinkpad P14s
-- Debian OS on my homelab (Pi 4B)
-- Alpine on my Pi 3B, Testing and Backup
+- Debian on my homelab (Raspberry Pi 4B)
+- Alpine on my devserver (Raspberry Pi 3B)
 
 Theres more about me [here](https://the-penwing.github.io)!
 
